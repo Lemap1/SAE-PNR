@@ -187,9 +187,4 @@ public class ObsBatracien extends Observation {
 			System.err.println("setNombrePonte : nombrePonte must be at least 0.");
 		}
 	}
-
-
-
-
-
 }
